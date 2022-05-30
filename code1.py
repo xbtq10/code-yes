@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: ascii -*-
+
 import os
 import re
 import json
